@@ -1,3 +1,6 @@
+<img width="1175" height="733" alt="Dashboard preview" src="https://github.com/user-attachments/assets/da489485-4209-4fb4-b110-852b3984df53" />
+
+
 This dashboard shows how the business is performing by turning sales data into easy-to-understand insights. It gives a quick view of overall sales and profit so users can instantly see the business condition.
 
 Users can interact with the dashboard to explore performance across different time periods and product categories. The visuals explain how profit changes over time, which products sell the most, which customers bring the highest value, and how sales move throughout the year.
